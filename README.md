@@ -15,8 +15,8 @@
 </p>
 
 <p align="center">
-  <a href="https://breathepa.org/wp-content/uploads/2015/06/air-pollution-300x180.jpg">
-  <img width="600" height="350" src="https://breathepa.org/2370">
+  <a href="https://breathepa.org/2370">
+  <img width="600" height="350" src="https://breathepa.org/wp-content/uploads/2015/06/air-pollution-300x180.jpg">
 </p>
 
 <h2>📘 Problem Overview:</h2>
